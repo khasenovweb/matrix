@@ -16,4 +16,5 @@ $(document).ready(function(){
 		}
 	});
 	$("a[data-role='scroll']").mPageScroll2id();
+	$("[data-input-phone]").mask("+7 999 999-9999");
 });
