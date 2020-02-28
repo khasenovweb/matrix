@@ -220,6 +220,9 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.iframe__video {
+  height: 293px;
+}
 .works__galery {
   margin-top: 46px;
 }
@@ -240,7 +243,7 @@
   -webkit-box-pack: justify;
           justify-content: space-between;
   margin: 0 auto;
-  width: 65%;
+  width: 75%;
   margin-top: 33px;
 }
 .works__galery button.owl-dot {

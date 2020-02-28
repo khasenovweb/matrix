@@ -15,4 +15,5 @@ $(document).ready(function(){
 			}
 		}
 	});
+	$("a[data-role='scroll']").mPageScroll2id();
 });
